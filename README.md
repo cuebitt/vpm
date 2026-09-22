@@ -17,3 +17,9 @@ UdonExpressionDriver is a set of tools and runtime scripts used to port Avatars 
 - [cuebitt/VRCUnitySplines](https://github.com/cuebitt/VRCUnitySplines)
 
 VRCUnitySplines is a set of editor scripts and runtime scripts used to bake Unity's Splines Animations into a format that VRChat worlds can use.
+
+### ReflectionEmissionBaker
+
+- [cuebitt/ReflectionEmissionBaker](https://github.com/cuebitt/ReflectionEmissionBaker)
+
+ReflectionEmissionBaker "bakes" a realtime light reflection into an emission mask. Avatars can use this to emulate a realtime light reflection (such as glowstick bracelets) without getting blocked for poor performance.

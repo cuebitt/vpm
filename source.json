@@ -1,20 +1,21 @@
 {
-    "name":"Cuebitt's VPM Repository",
-    "id":"rip.cuebitt.vpm",
-    "url":"https://cuebitt.github.io/vpm/index.json",
-    "author":{
-        "email":"contact@cuebitt.rip",
-        "name":"Cuebitt",
-        "url":"https://github.com/cuebitt"
+    "name": "Cuebitt's VPM Repository",
+    "id": "rip.cuebitt.vpm",
+    "url": "https://cuebitt.github.io/vpm/index.json",
+    "author": {
+        "email": "contact@cuebitt.rip",
+        "name": "Cuebitt",
+        "url": "https://github.com/cuebitt"
     },
-    "description":"All of Cuebitt's VPM packages (+ some extras)",
-    "infoLink":{
-        "url":"http://github.com/cuebitt/vpm",
-        "text":"View on GitHub"
+    "description": "All of Cuebitt's VPM packages",
+    "infoLink": {
+        "url": "http://github.com/cuebitt/vpm",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
+    "bannerUrl": "banner.png",
+    "githubRepos": [
         "cuebitt/UdonExpressionDriver",
-        "cuebitt/VRCUnitySplines"
+        "cuebitt/VRCUnitySplines",
+        "cuebitt/ReflectionEmissionBaker"
     ]
 }
