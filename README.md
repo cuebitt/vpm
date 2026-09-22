@@ -12,8 +12,8 @@ This repository holds all of my VRChat VPM packages. [Click here](https://cuebit
 
 UdonExpressionDriver is a set of tools and runtime scripts used to port Avatars props to Worlds projects.
 
-### VRCNaughtyAttributes
+### VRCUnitySplines
 
-- [cuebitt/VRCNaughtyAttributes](https://github.com/cuebitt/VRCNaughtyAttributes)
+- [cuebitt/VRCUnitySplines](https://github.com/cuebitt/VRCUnitySplines)
 
-VRCNaughtyAttributes is a port of [dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) intended for use in VRChat projects. It adds multiple attributes used to build custom inspectors. It has been modified to work under UdonSharp, and attributes irrelevant to VRChat have been removed.
+VRCUnitySplines is a set of editor scripts and runtime scripts used to bake Unity's Splines Animations into a format that VRChat worlds can use.
